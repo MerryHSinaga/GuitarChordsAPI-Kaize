@@ -1,0 +1,9 @@
+{
+  "name": "guitarchordsapi",
+  "version": "1.0.0",
+  "description": "Static JSON API for Merry's Guitar Chords hosted on Vercel",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo 'Static JSON API - No server needed'"
+  }
+}

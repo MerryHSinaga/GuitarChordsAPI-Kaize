@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "message": "Welcome to Merry's Guitar Chords API (Hosted on Vercel)",
+  "count": 20,
+  "data": [
+    {
+      "name": "A Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/A_major_varian1.png"
+    },
+    {
+      "name": "A Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/A_minor_varian1.png"
+    },
+    {
+      "name": "B Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/B_major_varian1.png"
+    },
+    {
+      "name": "B Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/B_minor_varian1.png"
+    },
+    {
+      "name": "C Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/C_major_varian1.png"
+    },
+    {
+      "name": "C Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/C_minor_varian1.png"
+    },
+    {
+      "name": "C# Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/C#_major_varian1.png"
+    },
+    {
+      "name": "C# Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/C#_minor_varian1.png"
+    },
+    {
+      "name": "D Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/D_major_varian1.png"
+    },
+    {
+      "name": "D Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/D_minor_varian1.png"
+    },
+    {
+      "name": "D# Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/D#_major_varian1.png"
+    },
+    {
+      "name": "E Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/E_major_varian1.png"
+    },
+    {
+      "name": "E Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/E_minor_varian1.png"
+    },
+    {
+      "name": "F Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/F_major_varian1.png"
+    },
+    {
+      "name": "F Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/F_minor_varian1.png"
+    },
+    {
+      "name": "F# Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/F#_major_varian1.png"
+    },
+    {
+      "name": "G Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/G_major_varian1.png"
+    },
+    {
+      "name": "G Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/G_minor_varian1.png"
+    },
+    {
+      "name": "G# Major",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/G#_major_varian1.png"
+    },
+    {
+      "name": "G# Minor",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarChordsAPI/refs/heads/main/images/G#_minor_varian1.png"
+    }
+  ]
+}
